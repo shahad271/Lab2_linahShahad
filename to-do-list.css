@@ -1,0 +1,16 @@
+.my-list{
+    Padding: 8px 24px;
+    Width: 500px;
+    font-size: 30px;
+    Border: 1px solid #f7f381;
+    background-color: #f7f381;
+    box-shadow: 0 0 10px 2px #333333;
+    margin: 27%;
+
+}
+#sh{
+    Margin: 12px;
+}
+#le{
+    text-align: center;
+}
